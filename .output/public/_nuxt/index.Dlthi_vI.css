@@ -1,1 +1,0 @@
-.game-icon{border-radius:50%;height:48px;overflow:hidden;position:relative;transition:all .3s ease;width:48px}.game-icon:hover{border-radius:16px;transform:scale(1.05)}.game-icon.active{border-radius:16px;box-shadow:0 0 0 2px var(--accent)}
